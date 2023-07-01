@@ -33,6 +33,7 @@ These are the raw files to be used
 * EDA
 
   At this step you can perform the actual analysis on the modelled dataset using statustics and Excel formulae like "AVERAGE" , "SUM", "COUNT" and their corresponding condition versions like "AVERAGEIF"
+
   Some of the insights I found out are :
   1. Top 5 performing content categories
   2. Month wise distribution of content consumption
