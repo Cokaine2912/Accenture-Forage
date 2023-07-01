@@ -53,3 +53,10 @@ These are the raw files to be used
   There's a model ppt template provided in the program and you are expected to build a presentaion on it.
   Lastly, you will be presenting to Social Buzz and your Accenture team in person and this is done by recording your presentaion video
  
+
+* Files you will find in my Repository
+
+
+  1. The Modelled Data in Excel file format
+  2. Final Presentation in .ppt format
+  3. Power BI dashboard in both .pdf and .pbix formats
