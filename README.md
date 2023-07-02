@@ -1,4 +1,10 @@
 # Accenture US - Junior Data Analyst Intern (Forage)
+
+![image](https://github.com/Cokaine2912/Accenture-US-Forage/assets/97113663/72343d8f-dd19-45bf-ab33-70eca083d978)
+
+
+
+
 This is a Virtual Experice Program from https://theforage.com and provides the very similar relevant experience to a candidate as if a real employee working at Accenture. From problem statement breifing in the team meeting to final presentation to the client, it provides a complete package.
 
 Following are the tasks/ojectives involved in this program :
